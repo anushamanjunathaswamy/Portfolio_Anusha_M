@@ -1,0 +1,133 @@
+/* about page */
+
+.custom{
+    background-color: white;
+}
+#name{
+    color: #61684d;
+    font-size: 40px;
+    font-family: 'Orelega One', cursive;
+
+}
+h2{
+    font-family: 'Orelega One', cursive;
+}
+.feature-icon {
+
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+    border-bottom-right-radius: 0.75rem;
+    border-bottom-left-radius: 0.75rem;
+    background-color: #b29079;
+}
+
+
+p{
+    font-size: 20px;
+    color: #61684d;
+    font-family: 'Caveat', cursive;
+}
+.copyright{
+    color: #c1b6a4;
+}
+.navbar{
+    background-color: #61684d;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.fs-5{
+    font-family: 'Caveat', cursive;
+    font-size: 35px;
+
+}
+.navbar-nav 
+.nav-link{
+    color: #c1b6a4;
+}
+.navbar-nav .nav-link:hover{
+    color:#b29079;
+
+}
+
+.footer{
+    background-color:#61684d;
+    color: #c1b6a4;  
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+.nav-link{
+    color: #c1b6a4;
+}
+
+.nav-link:hover{
+    color: #b29079;
+}
+
+.container{
+    color: #61684d;
+}
+/* resume page */
+.btn{
+    background-color: #b29079;
+    color: #61684d;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+
+.btn-custom:hover{
+    background-color: #61684d;
+    color: #b29079;
+}
+
+.bi:hover{
+    fill:#b29079;
+
+}
+
+.resume-text{
+    color: #61684d;
+}
+
+.heading{
+    color: #b29079;
+    font-family: 'Orelega One', cursive;
+}
+
+.list{
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+.education{
+    color: #b29079;
+    margin-bottom: 3px;
+}
+.flower{
+    position: absolute;
+    margin-left: 50%;
+   
+}
+/* work */
+.btn:hover{
+    color: #b29079;
+    background-color: #61684d;
+}
+.fiverr{
+    
+    color: #eebece;
+}
+
+.description{
+    font-family: 'Orelega One', cursive;
+    color: #b29079;
+}
+.details{
+    font-size: 25px;
+}
+
+.lead{
+    font-size: 25px;
+}
